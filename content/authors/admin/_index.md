@@ -14,26 +14,24 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include distributed robotics and artificial intelligence.
 
 # Interests to show in About widget
 interests:
+- Robotics
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MEng in Control Engineering ( Track: Robotics )
+    institution: Beijing University of Chemical Technology
+    year: 2020
+  - course: BEng in Telecommunication Engineering
+    institution: Beijing University of Chemical Technology
+    year: 2017
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
